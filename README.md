@@ -1,3 +1,3 @@
 # Creating my first Repo
-## just trying this out
+just trying this out
 
